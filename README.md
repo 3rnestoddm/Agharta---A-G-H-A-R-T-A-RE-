@@ -10,6 +10,12 @@
       SIGNAL TRACE: AI SYSTEMS PROBING THE MYTH OF THE INNER WORLD
       OPERATOR: 3RNESTODDM
       STATUS: PUBLIC RECORD / RESEARCH ARCHIVE
+ - Description
+    Agharta research archive, map studies, symbolic cartography, and AI-assisted pattern reading.
+  - Website
+    https://www.runwaypepe.com
+  - Topics
+    agharta, agartha, esoteric-cartography, symbolic-geography, myth-research, ai-research, occult-archive
 ```
 
 Agharta research archive, map studies, myth-engine notes, and rights record for original related materials by:
