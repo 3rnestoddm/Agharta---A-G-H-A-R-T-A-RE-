@@ -1,5 +1,5 @@
 # Agharta
-𐀀 𐀫 𐀓 𐀀 RE 𐀣 𐀀
+
 ```text
       _    ____ _   _    _    ____ _____  _    
      / \  / ___| | | |  / \  |  _ \_   _|/ \   
@@ -9,50 +9,88 @@
 
       SIGNAL TRACE: AI SYSTEMS PROBING THE MYTH OF THE INNER WORLD
       OPERATOR: 3RNESTODDM
-      STATUS: PUBLIC RECORD / RIGHTS GATE / MINT-READY
+      STATUS: PUBLIC RECORD / RESEARCH ARCHIVE
 ```
 
-Public rights, attribution, and purchase terms for original Agharta materials by:
+Agharta research archive, map studies, myth-engine notes, and rights record for original related materials by:
 
 `Ernesto Duenas Dobrowolski Miroslaw a.k.a. 3rnestoddm`
 
-Official links:
+<p align="center">
+  <img src="AGHARTA_FINAL_RESEARCH_MAP.png" alt="AGHARTA Final Research Map" width="900">
+</p>
 
-- Website: `https://www.runwaypepe.com`
-- YouTube: `https://www.youtube.com/@3rnestoddm`
-- OpenSea: `https://opensea.io/3rnestoddm`
-- Instagram: `https://www.instagram.com/3rnestoddm/`
-- SoundCloud: `https://soundcloud.com/myownrecords`
-- X/Twitter: `https://twitter.com/3rnestoddm`
-- Facebook: `https://www.facebook.com/ernestodobrowolski`
-- Email: `3rnestoddm@gmail.com`
-- Personal email: `snketr@gmail.com`
-- WhatsApp Bolivia: `(+591)71538851`
-- WhatsApp Polska: `(+48)512483333`
-
-Payment routes:
-
-- Wallet: `0x158978b4d0c4d840aec0aed330256a4b90a7cb56`
-- Buy Me a Coffee: `https://buymeacoffee.com/runwaypepe`
-
-Attribution:
-
-`An Original production made by Ernesto Duenas Dobrowolski Miroslaw a.k.a. 3rnestoddm`
+<p align="center">
+  <em>Current principal artifact: proposed ingress point marked on the active Agharta research map.</em>
+</p>
 
 ## Mission
 
-This repo is designed to look and read like a live evidence gate:
+This repo is meant to read like a live evidence gate:
 
 - part myth engine
+- part research notebook
 - part rights registry
-- part sale surface
 - part AI signal archive
 
-The public aesthetic can be expanded later with visuals, screenshots, logs, maps, transmissions, NFTs, and archived proof links.
+The public surface should feel esoteric but sober: maps, transmissions, historical references, coded notes, and documented source trails rather than sales language.
 
 ## What this repo is
 
-This repository is the public terms and proof layer for Agharta-related original materials, including original writing, artwork, music, audiovisual works, branding, code, compilations, metadata, packaging, and curated releases.
+This repository is the public archive layer for Agharta-related research framing and original materials, including map studies, writing, visual compositions, audiovisual work, metadata, code, and curated releases.
+
+## Orientation
+
+Agharta is treated here as a cross-domain subject:
+
+- esoteric geography
+- symbolic cartography
+- mythic subterranean civilization narrative
+- AI-assisted pattern reading and comparison
+
+This repo does not present a verified scientific discovery. It presents a documented inquiry surface and a body of authored interpretation.
+
+## Investigation Frame
+
+The core working premise of this archive is not that a hidden realm has already been proven, but that some maps, symbols, legends, and narrative systems can be examined as if they preserve fragments of a buried cosmology.
+
+This archive treats the Agharta problem through four synchronized lenses:
+
+- cartographic structure
+- mythic narrative continuity
+- symbolic encoding
+- dimensional or threshold language used to describe transition between worlds
+
+That does not make every claim true. It does make the archive legible as a serious inquiry surface instead of a promo page.
+
+## Synchronization Model
+
+The internal logic used here is:
+
+1. a map may operate as more than geography
+2. symbolic overlays may function as access grammar rather than decoration
+3. repeated myths of inner realms may encode threshold concepts, not only locations
+4. a proposed coordinate on a map can be treated as an ingress hypothesis when geology, centrality, enclosure, and symbolic emphasis converge
+
+In other words, if Agharta is not a simple place in ordinary terrain, the map may still be useful as a synchronization device between:
+
+- physical terrain
+- narrative space
+- ritual-symbolic space
+- imagined or extra-dimensional space
+
+This is a research hypothesis, not a settled proof claim.
+
+## Current Artifact
+
+The main visual artifact in this repo is `AGHARTA_FINAL_RESEARCH_MAP.png`, a composed research plate that:
+
+- uses an extracted source map
+- marks one proposed ingress point
+- separates factual notes from symbolic transmission language
+- treats the marked site as a defensible map-internal hypothesis
+
+For the current reasoning behind that marked point, see `INVESTIGATION_NOTES.md`.
 
 ## Rights rule
 
@@ -67,35 +105,41 @@ Exclusive or commercial rights transfer only after:
 
 Until then, any delivered material is for personal review and evaluation only unless stated otherwise in writing.
 
+For rights, contact, and attribution details, see:
+
+- `NOTICE`
+- `TERMS.md`
+- `LICENSE`
+
 ## Repo contents
 
+- `AGHARTA_FINAL_RESEARCH_MAP.png` - current principal investigation image
+- `AGHARTA_FINAL_RESEARCH_MAP.svg` - portable wrapper of the principal image
+- `INVESTIGATION_NOTES.md` - serious framing, map logic, and ingress hypothesis notes
+- `SUPPORT_AND_CONTACT.md` - support, contact, and public reference details
 - `LICENSE` - custom 3rnestoddm license notice
 - `NOTICE` - attribution and contact notice
 - `TERMS.md` - public sale and transfer terms
 - `PRICE_SCHEDULE.md` - editable discovery-type pricing
 - `ASSIGNMENT_CERTIFICATE_TEMPLATE.md` - final transfer template for real buyers
 
-## Buyer logic
+## Archive logic
 
-If someone wants:
+The archive can hold:
 
-- credit only
-- a collectible only
-- a non-exclusive license
-- an exclusive transfer
-- a token plus rights package
+- map extractions
+- annotated ingress hypotheses
+- visual symbols and locator systems
+- source references
+- transmissions / tale fragments
+- later NFT-linked research artifacts
 
-that is priced and documented separately. `PRICE_SCHEDULE.md` is where you put the actual money numbers for those cases.
+## Public node
 
-## NFT rule
+Minimal public references:
 
-Unless expressly stated in a signed transfer document, an NFT sale transfers ownership of the token only, not copyright in the underlying work.
+- Site: `https://www.runwaypepe.com`
+- OpenSea: `https://opensea.io/3rnestoddm`
+- Contact: `3rnestoddm@gmail.com`
 
-## Publishing note
-
-For stronger public timestamping:
-
-1. keep this repo public
-2. archive the public URLs with `https://web.archive.org/save`
-3. link the repo from your website and OpenSea pages
-4. use the assignment certificate for each actual rights buyer
+Detailed contact and support routes are intentionally kept in `SUPPORT_AND_CONTACT.md` and the legal files instead of repeated across the front page.
