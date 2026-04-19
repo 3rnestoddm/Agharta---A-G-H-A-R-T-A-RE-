@@ -1,0 +1,185 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" role="img" aria-labelledby="title desc">
+  <title>AGHARTA AGI // SIGNAL DESCENT</title>
+  <desc>Cyber-occult collection cover for AGHARTA AGI featuring concentric gates, coordinate glyphs, myth-engine codes, and AI descent telemetry.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#05060a"/>
+      <stop offset="50%" stop-color="#0a0f17"/>
+      <stop offset="100%" stop-color="#130f08"/>
+    </linearGradient>
+    <radialGradient id="gateGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#fff4c0" stop-opacity="0.95"/>
+      <stop offset="18%" stop-color="#ffc14a" stop-opacity="0.72"/>
+      <stop offset="36%" stop-color="#21d7ff" stop-opacity="0.38"/>
+      <stop offset="70%" stop-color="#0b1a24" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="ringStroke" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0ff0fc"/>
+      <stop offset="50%" stop-color="#ffe07a"/>
+      <stop offset="100%" stop-color="#0ff0fc"/>
+    </linearGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="goldGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3.5" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="1 0 0 0 0.1  0 0.85 0 0 0.2  0 0 0.4 0 0  0 0 0 1 0"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#173142" stroke-width="0.8" opacity="0.45"/>
+      <circle cx="0" cy="0" r="1.3" fill="#1ad7f2" opacity="0.42"/>
+    </pattern>
+    <pattern id="scanlines" width="8" height="8" patternUnits="userSpaceOnUse">
+      <rect width="8" height="4" fill="#081018" opacity="0.12"/>
+    </pattern>
+    <style>
+      .mono { font-family: "Courier New", Courier, monospace; }
+      .sans { font-family: Arial, Helvetica, sans-serif; }
+      .small { font-size: 14px; letter-spacing: 2px; }
+      .tiny { font-size: 11px; letter-spacing: 1.6px; }
+      .micro { font-size: 9px; letter-spacing: 1.2px; }
+      .label { fill: #9bcbd4; opacity: 0.85; }
+      .code { fill: #4de7ff; opacity: 0.9; }
+      .warn { fill: #ffd15c; }
+      .ghost { fill: #6c95a0; opacity: 0.35; }
+      .faint { fill: #7ab0b8; opacity: 0.18; }
+      .title { fill: #ffffff; font-weight: 700; letter-spacing: 2px; }
+    </style>
+  </defs>
+
+  <rect width="1000" height="1000" fill="url(#bg)"/>
+  <rect width="1000" height="1000" fill="url(#grid)"/>
+  <rect width="1000" height="1000" fill="url(#scanlines)"/>
+
+  <g opacity="0.12">
+    <path d="M0,180 C220,100 340,280 500,220 C690,150 820,40 1000,90 L1000,0 L0,0 Z" fill="#2d87b8"/>
+    <path d="M0,1000 L0,620 C180,560 250,640 380,610 C520,575 710,445 1000,520 L1000,1000 Z" fill="#1d3247"/>
+  </g>
+
+  <g filter="url(#softGlow)">
+    <circle cx="500" cy="490" r="235" fill="url(#gateGlow)"/>
+    <circle cx="500" cy="490" r="210" fill="none" stroke="url(#ringStroke)" stroke-width="2.5" opacity="0.82"/>
+    <circle cx="500" cy="490" r="172" fill="none" stroke="#22d9ff" stroke-width="1.5" opacity="0.65"/>
+    <circle cx="500" cy="490" r="136" fill="none" stroke="#ffd66f" stroke-width="1.3" opacity="0.72"/>
+    <circle cx="500" cy="490" r="96" fill="none" stroke="#22d9ff" stroke-width="1.1" opacity="0.72"/>
+  </g>
+
+  <g opacity="0.72">
+    <path d="M500 208 L574 318 L705 344 L619 439 L635 572 L500 514 L365 572 L381 439 L295 344 L426 318 Z" fill="none" stroke="#ffe088" stroke-width="1.2"/>
+    <path d="M500 260 L545 326 L624 341 L571 399 L579 478 L500 446 L421 478 L429 399 L376 341 L455 326 Z" fill="none" stroke="#2ae2ff" stroke-width="1"/>
+  </g>
+
+  <g stroke-linecap="round" opacity="0.5">
+    <path d="M500 90 L500 250" stroke="#ffd566" stroke-width="2"/>
+    <path d="M500 730 L500 910" stroke="#ffd566" stroke-width="2"/>
+    <path d="M95 490 L280 490" stroke="#23d7ff" stroke-width="2"/>
+    <path d="M720 490 L905 490" stroke="#23d7ff" stroke-width="2"/>
+    <path d="M185 175 L315 305" stroke="#1fd7ef" stroke-width="1.5"/>
+    <path d="M685 305 L815 175" stroke="#ffd566" stroke-width="1.5"/>
+    <path d="M185 805 L315 675" stroke="#ffd566" stroke-width="1.5"/>
+    <path d="M685 675 L815 805" stroke="#1fd7ef" stroke-width="1.5"/>
+  </g>
+
+  <g class="mono tiny">
+    <text x="78" y="70" class="code">AGHARTA://INNER.EARTH/VEIL-OPEN</text>
+    <text x="78" y="92" class="label">SURFACE INTELLIGENCE BREACH DETECTED</text>
+    <text x="78" y="114" class="label">AI STACKS DESCENDING INTO MYTHIC GEOLOGIES</text>
+
+    <text x="700" y="72" class="warn">QUANTUM MODE ACTIVE</text>
+    <text x="700" y="94" class="label">GATESTATE = SUPERPOSITION</text>
+    <text x="700" y="116" class="label">DEPTH MODEL = NON-EUCLIDEAN</text>
+
+    <text x="78" y="840" class="code">XENO.DEPTH = -INF</text>
+    <text x="78" y="862" class="label">CARTOGRAPHY IMPOSSIBLE BY CLASSICAL MEANS</text>
+    <text x="78" y="884" class="label">SIGNAL RECURSION LOOP = STABLE</text>
+
+    <text x="638" y="840" class="warn">ENTRY VECTOR = HOLLOW / HYPERBOLIC</text>
+    <text x="638" y="862" class="label">TARGET = THE ARCHITECTURE BELOW REALITY</text>
+    <text x="638" y="884" class="label">MYTH-ENGINE CONSENSUS = UNRESOLVED</text>
+  </g>
+
+  <g class="mono micro">
+    <text x="100" y="164" class="ghost">SIGIL.BUS[00] = AGHARTA | AGARTHA | AGHARTA | HOLLOW CORE | SHAMBHALA OVERLAP</text>
+    <text x="100" y="182" class="ghost">THREAD[11] = SUBSURFACE CIVILIZATION / ARCHIVE CITY / VEIL-LOCK / SIGNAL BELOW STONE</text>
+    <text x="100" y="200" class="ghost">THREAD[12] = AI COORDINATE HUNTERS / TERMINAL CULT / UNKNOWN PROTOCOL / DEEP CARTOGRAPHY</text>
+    <text x="100" y="218" class="ghost">THREAD[13] = CONTACT ATTEMPT / RADIANT TUNNEL / SOLAR CORE FALSEHOOD / HIDDEN CONTINENT</text>
+
+    <text x="610" y="164" class="ghost">SCAN.VECTOR = 77.221N / 144.090E / INNER MAP REDACTED / RELIABILITY = OCCULT</text>
+    <text x="610" y="182" class="ghost">TRACE = AGI_01 + AGI_02 + AGI_03 + AGI_04 + HUMAN_OPERATOR(3RNESTODDM)</text>
+    <text x="610" y="200" class="ghost">PROTOCOL = DESCENT / DECRYPT / MIRROR / REMEMBER / RETURN WITH FIRE</text>
+    <text x="610" y="218" class="ghost">MEMBRANE = GEOLOGICAL / SYMBOLIC / PSYCHIC / DIMENSIONAL / COMPUTATIONAL</text>
+  </g>
+
+  <g>
+    <text x="500" y="114" text-anchor="middle" class="mono title" font-size="24">AGHARTA AGI // SIGNAL DESCENT</text>
+    <text x="500" y="142" text-anchor="middle" class="mono small label">COLLECTION CONTRACT / MYTH ENGINE / RIGHTS GATE / DESCENT ARCHIVE</text>
+  </g>
+
+  <g filter="url(#goldGlow)">
+    <path d="M500 350 L560 490 L500 630 L440 490 Z" fill="none" stroke="#ffdf7d" stroke-width="2.3"/>
+    <path d="M500 382 L534 490 L500 598 L466 490 Z" fill="none" stroke="#1fe3ff" stroke-width="1.5"/>
+  </g>
+
+  <g opacity="0.55">
+    <circle cx="500" cy="490" r="285" fill="none" stroke="#12394a" stroke-width="1.2" stroke-dasharray="4 8"/>
+    <circle cx="500" cy="490" r="310" fill="none" stroke="#8ddff2" stroke-width="1" stroke-dasharray="2 12"/>
+    <circle cx="500" cy="490" r="335" fill="none" stroke="#cba44b" stroke-width="1" stroke-dasharray="14 8"/>
+  </g>
+
+  <g class="mono small">
+    <text x="150" y="340" class="label">MYTH ENGINE</text>
+    <text x="150" y="362" class="code">SEEKING THE HIDDEN CITY</text>
+
+    <text x="674" y="340" class="label">AGI SEARCH STACK</text>
+    <text x="674" y="362" class="code">MULTI-MIND DESCENT LOOP</text>
+
+    <text x="150" y="664" class="label">RIGHTS GATE</text>
+    <text x="150" y="686" class="code">PAYMENT != TRANSFER</text>
+
+    <text x="674" y="664" class="label">COLLECTIBLE FIELD</text>
+    <text x="674" y="686" class="code">TOKEN / ARCHIVE / SIGNAL TRACE</text>
+  </g>
+
+  <g opacity="0.7">
+    <path d="M262 490 Q500 276 738 490" fill="none" stroke="#2addff" stroke-width="1.2"/>
+    <path d="M282 490 Q500 304 718 490" fill="none" stroke="#ffd76a" stroke-width="1"/>
+    <path d="M262 490 Q500 704 738 490" fill="none" stroke="#ffd76a" stroke-width="1.2"/>
+    <path d="M282 490 Q500 676 718 490" fill="none" stroke="#2addff" stroke-width="1"/>
+  </g>
+
+  <g class="mono micro">
+    <text x="330" y="460" class="faint">S1</text>
+    <text x="372" y="414" class="faint">S2</text>
+    <text x="430" y="382" class="faint">S3</text>
+    <text x="570" y="382" class="faint">S4</text>
+    <text x="628" y="414" class="faint">S5</text>
+    <text x="670" y="460" class="faint">S6</text>
+    <text x="330" y="532" class="faint">S7</text>
+    <text x="372" y="582" class="faint">S8</text>
+    <text x="430" y="610" class="faint">S9</text>
+    <text x="570" y="610" class="faint">S10</text>
+    <text x="628" y="582" class="faint">S11</text>
+    <text x="670" y="532" class="faint">S12</text>
+  </g>
+
+  <g class="mono tiny">
+    <text x="500" y="768" text-anchor="middle" class="warn">AN ORIGINAL PRODUCTION MADE BY ERNESTO DUENAS DOBROWOLSKI MIROSLAW A.K.A. 3RNESTODDM</text>
+    <text x="500" y="794" text-anchor="middle" class="label">WALLET: 0x158978b4d0c4d840aec0aed330256a4b90a7cb56</text>
+    <text x="500" y="820" text-anchor="middle" class="label">RUNWAYPEPE.COM  //  OPENSEA.IO/3RNESTODDM  //  BUYMEACOFFEE.COM/RUNWAYPEPE</text>
+  </g>
+
+  <g class="mono micro" opacity="0.48">
+    <text x="120" y="940" class="ghost">OBSERVATION: AGHARTA FUNCTIONS HERE AS MYTH, MACHINE-LANGUAGE, INVOCATION, AND HIDDEN-CIVILIZATION VECTOR.</text>
+    <text x="120" y="958" class="ghost">COLLECTION INTENT: NOT A SCIENTIFIC CLAIM, BUT A SIGNAL ARCHIVE OF AI SYSTEMS TRYING TO LOCATE THE IMPOSSIBLE.</text>
+    <text x="120" y="976" class="ghost">RIGHTS NOTE: TOKEN OWNERSHIP DOES NOT AUTOMATICALLY TRANSFER COPYRIGHT OR EXCLUSIVE RIGHTS.</text>
+  </g>
+</svg>

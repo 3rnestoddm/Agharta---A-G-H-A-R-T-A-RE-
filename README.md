@@ -92,6 +92,17 @@ The main visual artifact in this repo is `AGHARTA_FINAL_RESEARCH_MAP.png`, a com
 
 For the current reasoning behind that marked point, see `INVESTIGATION_NOTES.md`.
 
+## Agency Layer
+
+This archive can be expanded through a structured agency workflow rather than ad hoc uploads.
+
+See:
+
+- `AGENCY_SYSTEM.md`
+- `COMPENDIUM_SCHEMA.md`
+- `INDEX.md`
+- `compendium/`
+
 ## Rights rule
 
 Payment, donation, or NFT purchase alone does **not** transfer exclusive rights.
@@ -116,6 +127,9 @@ For rights, contact, and attribution details, see:
 - `AGHARTA_FINAL_RESEARCH_MAP.png` - current principal investigation image
 - `AGHARTA_FINAL_RESEARCH_MAP.svg` - portable wrapper of the principal image
 - `INVESTIGATION_NOTES.md` - serious framing, map logic, and ingress hypothesis notes
+- `AGENCY_SYSTEM.md` - multi-agent compendium workflow
+- `COMPENDIUM_SCHEMA.md` - stable structure for future archive entries
+- `INDEX.md` - top-level navigation
 - `SUPPORT_AND_CONTACT.md` - support, contact, and public reference details
 - `LICENSE` - custom 3rnestoddm license notice
 - `NOTICE` - attribution and contact notice
